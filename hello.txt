@@ -1,0 +1,1 @@
+Java is a powerful programming language. Many developers use Java to build applications, websites, and enterprise systems. Java is known for its reliability and portability. Because Java runs on the Java Virtual Machine, programs written in Java can run on many different computers. Learning Java helps programmers understand object-oriented programming and software design.
